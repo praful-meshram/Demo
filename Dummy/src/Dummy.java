@@ -6,6 +6,7 @@ public class Dummy {
 		System.out.println("nae szhn");
 		System.out.println("nae szhn");
 		System.out.println("nae szhn");
+		System.out.println("nae szhn");
 		
 	}
 	
