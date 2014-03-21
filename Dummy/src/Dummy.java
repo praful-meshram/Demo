@@ -8,7 +8,7 @@ public class Dummy {
 		
 	}
 	
-		public void getname111() {
+		public void getnam1() {
 		System.out.println("nae szhn");
 	
 		
