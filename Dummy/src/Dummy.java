@@ -9,7 +9,7 @@ public class Dummy {
 	}
 	
 		public void getnam1() {
-		System.out.println("hello ");
+		System.out.println("nae szhn");
 	
 		
 	}
