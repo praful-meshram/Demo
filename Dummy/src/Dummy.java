@@ -4,7 +4,7 @@ public class Dummy {
 	}
 	public void getname() {
 		System.out.println("nae szhn");
-	
+		System.out.println("nae szhn");
 		
 	}
 	
