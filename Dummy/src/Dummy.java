@@ -4,6 +4,8 @@ public class Dummy {
 		System.out.println("dummy ");
 	}
 	public void name() {
-		System.out.println("nae ");
+		System.out.println("nae szhn");
+		System.out.println("hjghjknzj");
+		
 	}
 }
